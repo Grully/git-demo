@@ -34,3 +34,4 @@ Do-do-do, Do-do-do,
 Do-do-do, Do-do-do
 
 one new string
+and yet another string
